@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIT PRUEBAS</title>
+</head>
+<body>
+    <h1>TITULO Nuevo modificado</h1>
+
+
+    <form action="#" method="get">
+          <input type="text" name="firstName" id="firstName"> 
+      <input type="button" value="Enviar"/>
+
+      <h2>Ahora cambio desde user-2</h2>
+      <h2>Ahora cambio desde user-3</h2>
+      <h2>Ahora cambio desde user-1</h2>
+      <h2>Ahora otro cambio desde user-1</h2>
+      <h2>Ahora otro tercer cambio desde user-1</h2>
+      <h2>Perfect, hora desde el usuario3</h2>
+      <h2>Ahora cambio desde user-2</h2>
+      <h2>Ahora cambio desde user-2</h2>
+      <h2>Ahora cambio desde user-3</h2>
+      <h2>Ahora cambio desde user-2</h2>
+      <h2>Ahora cambio desde user-2</h2>
+      <h2>Ahora cambio desde user-3</h2>
+      <h2>Ahora cambio desde user-1</h2>
+      <h2>Ahora cambio desde user-3</h2>
+<<<<<<< HEAD
+      <h2>Ahora cambio desde user-3</h2>
+=======
+      <h2>Ahora cambio desde user-1</h2>
+>>>>>>> origin/develop
+    </form>
+</body>
+</html>
